@@ -1,7 +1,7 @@
 # 파이트 오브 던전(Fight of Dungeon)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16ed80bb-d608-4547-82de-d2d98b969672" width="300" height="300"/>
+  <img width="300" height="300" alt="FOD_Logo" src="https://github.com/user-attachments/assets/aceea928-bbd1-4d5b-b4e4-009ddcc03a42" />
 </p>
 
 ---
@@ -42,9 +42,9 @@ Unity Gaming Service의 **Lobby 기능**을 활용한 매칭 시스템
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/071865e7-3e94-4208-a0dc-7eb62a390ba9" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/29c1d122-276f-4b59-a3bf-f34c0f04c8b2" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/7a58bebc-bec5-4ab1-a292-d4002d734040" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_shop1" src="https://github.com/user-attachments/assets/6f802e00-d91a-477f-8c81-90c2065fb171" /></td>
+    <td><img width="300" height="900" alt="FOD_shop2" src="https://github.com/user-attachments/assets/161f602a-2afb-48d6-8712-6c158f738738" /></td>
+    <td><img width="300" height="900" alt="FOD_shop3" src="https://github.com/user-attachments/assets/338a1460-69e1-4216-b0d6-0b2e23a69561" /></td>
   </tr>
   <tr>
     <td align="center">상점 탭</td>
@@ -52,36 +52,36 @@ Unity Gaming Service의 **Lobby 기능**을 활용한 매칭 시스템
     <td align="center">유물 뽑기 결과</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/804196a2-05ad-4144-ac3d-6faabea46405" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/8c40ba29-4135-4a47-a1af-2ec421b597c8" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/c78d40a2-564f-4ab7-9c9f-f7422883e325" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_main1" src="https://github.com/user-attachments/assets/2deb495f-001c-47cd-99db-9e07751e3e01" /></td>
+    <td><img width="300" height="900" alt="FOD_main2" src="https://github.com/user-attachments/assets/1fb5de01-d93d-419a-9316-dc8131ddf13f" /></td>
+    <td><img width="300" height="900" alt="FOD_main3" src="https://github.com/user-attachments/assets/4151e124-acef-4fb0-9c82-f2b8c7f76de3" /></td>
   </tr>
   <tr>
-    <td align="center">⚔전투 탭</td>
+    <td align="center">전투 탭</td>
     <td align="center">방 만들기</td>
     <td align="center">멀티 입장 코드</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cc427bf4-fe6d-4718-bef8-48d73ca33953" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/25eb1557-e9e6-4746-a8d3-d8e0c58860e5" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_character1" src="https://github.com/user-attachments/assets/a3f0893e-52b4-40f6-bf7a-00714006afec" /></td>
+    <td><img width="300" height="900" alt="FOD_character2" src="https://github.com/user-attachments/assets/bc4a8340-b1d5-4c09-8b82-8742e5c5fecf" /></td>
   </tr>
   <tr>
     <td align="center">캐릭터 탭</td>
     <td align="center">캐릭터 정보창</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9c298975-e3bb-4822-8895-de4fc5e6d8b6" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/39779b4e-d184-4897-ba48-d65cd316a25f" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_relic1" src="https://github.com/user-attachments/assets/c4ce9c8e-5d69-4d8d-b566-68c0f42aaa88" /></td>
+    <td><img width="300" height="900" alt="FOD_relic2" src="https://github.com/user-attachments/assets/9bf11569-76ae-4c70-8b68-258c670dae5d" /></td>
   </tr>
   <tr>
     <td align="center">유물 탭</td>
     <td align="center">유물 정보창</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0468fb43-2f7c-41aa-9750-e6e7c0539b2c" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/178c91f0-0c71-40f8-b306-fdd807ea7457" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/5088be5f-af13-4589-b88c-fffe581d56ed" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/6049f9cf-5944-43b8-832e-47b599b1015d" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_upgrade_gold1" src="https://github.com/user-attachments/assets/dd627423-c79d-4b0e-b79b-5a5bbb89087c" /></td>
+    <td><img width="300" height="900" alt="FOD_upgrade_level" src="https://github.com/user-attachments/assets/47af5525-49c1-477c-b33f-94fb4d0b428d" /></td>
+    <td><img width="300" height="900" alt="FOD_item_purchase" src="https://github.com/user-attachments/assets/2ade2d11-c4a7-48f9-972a-140e36bfc44a" /></td>
+    <td><img width="300" height="900" alt="FOD_portal" src="https://github.com/user-attachments/assets/d564204f-84e3-4335-bb40-ce5ecf7f917e" /></td>
   </tr>
   <tr>
     <td align="center">캐릭터 업그레이드 (골드)</td>
@@ -90,10 +90,10 @@ Unity Gaming Service의 **Lobby 기능**을 활용한 매칭 시스템
     <td align="center">몬스터 구역 포탈</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/51663ea3-6bb3-430e-a79d-a513071416f4" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/b938aa76-596a-4b8a-9483-8bb9553df378" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/e1cbacca-b9cb-48bd-8319-c60b59a86c9c" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/08f0a374-91f8-4cd6-b3b0-b008ce76253b" width="300"></td>
+    <td><img width="300" height="900" alt="FOD_battle1" src="https://github.com/user-attachments/assets/801dd03e-a0f8-4772-96aa-9011ae02b936" /></td>
+    <td><img width="300" height="900" alt="FOD_battle2" src="https://github.com/user-attachments/assets/77f12e3a-e0d4-4db9-8a17-39baa5fe4071" /></td>
+    <td><img width="300" height="900" alt="FOD_multibattle" src="https://github.com/user-attachments/assets/6ed13389-fdaf-4ca2-9542-14ce101a2e8f" /></td>
+    <td><img width="300" height="900" alt="FOD_respawn" src="https://github.com/user-attachments/assets/4ed240f0-4866-4981-ad12-5c322015cf77" /></td>
   </tr>
   <tr>
     <td align="center">몬스터 전투 1</td>
