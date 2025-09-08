@@ -86,7 +86,7 @@ Unity Gaming Service의 **Lobby 기능**을 활용한 매칭 시스템
   <tr>
     <td align="center">캐릭터 업그레이드 (골드)</td>
     <td align="center">캐릭터 업그레이드 (레벨 포인트)</td>
-    <td align="center">🛍아이템 구매 (상점)</td>
+    <td align="center">아이템 구매 (상점)</td>
     <td align="center">몬스터 구역 포탈</td>
   </tr>
   <tr>
@@ -96,9 +96,9 @@ Unity Gaming Service의 **Lobby 기능**을 활용한 매칭 시스템
     <td><img src="https://github.com/user-attachments/assets/08f0a374-91f8-4cd6-b3b0-b008ce76253b" width="300"></td>
   </tr>
   <tr>
-    <td align="center">⚔몬스터 전투 1</td>
-    <td align="center">⚔몬스터 전투 2</td>
-    <td align="center">⚔몬스터 전투 (멀티)</td>
+    <td align="center">몬스터 전투 1</td>
+    <td align="center">몬스터 전투 2</td>
+    <td align="center">몬스터 전투 (멀티)</td>
     <td align="center">리스폰</td>
   </tr>
 </table>
